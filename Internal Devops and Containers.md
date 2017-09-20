@@ -1,9 +1,22 @@
 footer: ![inline](assets/icon-twitter.png) ![inline](assets/icon-github.png) lonix
 [.hide-footer] 
 
-#DevOps
+#Containers
+and the Consept of DevOps
 
 --- 
+
+#Agenda
+
+- Introductions
+- DevOps
+- Containers (and Docker)
+- Rancher
+- Rancher Labs
+- EVRY Distributed Container Service
+- Q&A
+
+---
 
 #Stian Buch Larsen
 
@@ -12,9 +25,10 @@ footer: ![inline](assets/icon-twitter.png) ![inline](assets/icon-github.png) lon
 - Working with EVRY Since **Sept. 2017**
 - Working with Docker for **5 years**
 - Co-Founder **linuxserver.io**
+- Technical Lead on **EVRY DCS**
 
 ---
-w
+
 ##The Agile Manifesto
 
 **Individuals and interactions** over processes and tools 
