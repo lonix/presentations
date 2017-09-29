@@ -64,3 +64,16 @@ Read more at https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-de
 
 
 ---
+
+## Recommended Futher Read
+
+![inline](assets/the-phoenix-project.jpg) 
+
+æ[^1]
+
+
+---
+
+
+
+[^1]: Amazon.com
