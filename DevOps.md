@@ -60,7 +60,11 @@ Its all about haveing several parts of you bussniss to Cooperate in a way that i
 
 ---
 
-![left](assets/ci-flow.png)
+## The DevOps Cycle
+
+---
+
+![fit](assets/devops-cycle.png)
 
 ---
 
@@ -72,14 +76,32 @@ DevOps emerged from an effort by businesses to respond more rapidly to market ch
 
 
 ^
+
 Read more at https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-devops.html#gwbsZvXIRWi9ygAc.99
 
 ---
 
-###A Brief history on **DevOps**
+###A Brief history on **DevOps** [^1]
 
-^ 
-cd  
+[.build-lists: true]
+[.autoscale: true]
+
++ 2008: Debois helps plant the seeds of the DevOps movement at the Agile conference in Toronto.
++ 2009: Flikr employees holds a talk: “10+ Deploys per Day: Dev and Ops Cooperation at Flickr.” 
++ 2010: The first US Devopsdays is organized
++ 2011: The DevOps community starts to build open source tools like Vagrant 
+
+---
+
+[.build-lists: true]
+[.autoscale: true]
+
+###A Brief history on **DevOps** [^1]
+
++ 2013: Several DevOps essential books appears. including The Phoenix Project, The lean startup and Continuous Delivery.
++ 2014: DevOps crosses into the enterprise, and established brands like Target, Nordstrom and LEGO embrace the movement.
++ 2016: The first DevOpsday Oslo is held.
+
 ---
 
 #DevOps
@@ -94,6 +116,16 @@ cd
 
 ---
 
+![](assets/devopsdays-oslo-17.jpg)
+## Want to know more ? 
+Attend your local DevOpsDays.
+[devopsdays.org](https://www.devopsdays.org/)
+
+---
 
 
-[^1]: Amazon.com
+[^1]: ca.com
+
+
+^
+https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-devops.html#gwbsZvXIRWi9ygAc.99 #Full article on Devops History
