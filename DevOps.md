@@ -71,7 +71,7 @@ Culture
 -- Scott Hanselman
 
 ^
-Autopmation
+Automation
 
 ---
 
