@@ -1,4 +1,3 @@
-autoscale: true
 theme: Ostrich, 1
 footer: ![inline](assets/icon-twitter.png) ![inline](assets/icon-github.png) **lonix**
 [.hide-footer]
@@ -18,7 +17,7 @@ footer: ![inline](assets/icon-twitter.png) ![inline](assets/icon-github.png) **l
 
 ---
 
-# What Is **DevOps**?
+# What Is **DevOps**
 
 ---
 
@@ -36,7 +35,6 @@ Its all about haveing several parts of you bussniss to Cooperate in a way that i
 
 ---
 
-
 # The Agile Manifesto
 
 + **Individuals and interactions** > processes and tools
@@ -47,7 +45,6 @@ Its all about haveing several parts of you bussniss to Cooperate in a way that i
 ^ The Point of this slide, is that DevOps is not a new consept, it has been around for quite some time, and it relys on other standards.
 That is, while there is value in the items on
 the right, we value the items on the left more.
-
 
 ---
 
@@ -69,7 +66,6 @@ the right, we value the items on the left more.
 Culture
 
 ---
-
 
 > The most powerful tool we have as developers is automation
 -- Scott Hanselman
@@ -96,7 +92,6 @@ Shareing
 
 ---
 
-
 ## The DevOps Cycle
 
 ---
@@ -105,20 +100,19 @@ Shareing
 
 ---
 
-#**Why?**
+# **Why?**
 
 ---
 
 DevOps emerged from an effort by businesses
 to **respond more rapidly** to market changes.
 
-
 ^
 Read more at https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-devops.html#gwbsZvXIRWi9ygAc.99
 
 ---
 
-###A Brief history on **DevOps** [^1]
+### A Brief history on **DevOps** [^1]
 
 [.build-lists: true]
 [.autoscale: true]
@@ -133,7 +127,7 @@ Read more at https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-de
 [.build-lists: true]
 [.autoscale: true]
 
-###A Brief history on **DevOps** [^1]
+### A Brief history on **DevOps** [^1]
 
 + 2013: Several DevOps essential books appears. including The Phoenix Project, The lean startup and Continuous Delivery.
 + 2014: DevOps crosses into the enterprise, and established brands like Target, Nordstrom and LEGO embrace the movement.
@@ -149,7 +143,7 @@ Read more at https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-de
 
 ![](assets/devopsdays-oslo-17.jpg)
 
-## Want to know more ?
+## Want to know more
 
 Attend your local DevOpsDays.
 [devopsdays.org](https://www.devopsdays.org/)
@@ -160,11 +154,11 @@ Attend your local DevOpsDays.
 
 Time for Questions and Discussions as time allows
 
+^
 Fork this presentation:
-![inline](assets/icon-github.png)/lonix/presentations
+github.com/lonix/presentations
 
 [^1]: ca.com
-
 
 ^
 https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-devops.html#gwbsZvXIRWi9ygAc.99 #Full article on Devops History
