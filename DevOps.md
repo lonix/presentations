@@ -1,24 +1,24 @@
+autoscale: true
 theme: Ostrich, 1
 footer: ![inline](assets/icon-twitter.png) ![inline](assets/icon-github.png) **lonix**
-[.hide-footer] 
+[.hide-footer]
 
-#DevOps
+# DevOps
 
---- 
+---
+[.hide-footer]
 
-#Stian Buch Larsen
+# Stian Buch Larsen
 
-![inline](assets/person-stian.jpg) 
+![inline](assets/person-stian.jpg)
 
-+ Working with EVRY Since **Sept. 2017**
-+ Working with Docker for **5 years**
++ Working with Itera Since **Oct. 2018**
++ Working with containers Since **2012**
 + Co-Founder of **linuxserver.io**
-
-^  Need to rewrite this slide to be more general and relevant.
 
 ---
 
-##What Is DevOps
+# What Is **DevOps**?
 
 ---
 
@@ -37,14 +37,16 @@ Its all about haveing several parts of you bussniss to Cooperate in a way that i
 ---
 
 
-##The Agile Manifesto
+# The Agile Manifesto
 
-+ **Individuals and interactions** over processes and tools 
-+ **Working software** over comprehensive documentation 
-+ **Customer collaboration** over contract negotiation
-+ **Responding to change** over following a plan
++ **Individuals and interactions** > processes and tools
++ **Working software** > comprehensive documentation
++ **Customer collaboration** > contract negotiation
++ **Responding to change** > following a plan
 
 ^ The Point of this slide, is that DevOps is not a new consept, it has been around for quite some time, and it relys on other standards.
+That is, while there is value in the items on
+the right, we value the items on the left more.
 
 
 ---
@@ -60,6 +62,41 @@ Its all about haveing several parts of you bussniss to Cooperate in a way that i
 
 ---
 
+> Individual teams shouldn’t be larger than what two pizzas can feed.
+-- Jeff Bezos (Founder and CEO Amazon)
+
+^
+Culture
+
+---
+
+
+> The most powerful tool we have as developers is automation
+-- Scott Hanselman
+
+^
+Autopmation
+
+---
+
+> It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.
+-- Charles Darwin
+
+^
+Looking back on data, we got to improve our next cycle is the key to successfull change
+Measurement
+
+---
+
+> Programming is not a zero-sum game. Teaching something to a fellow programmer doesn’t take it away from you
+-- John Carmack (CTO of Ouculs VR)
+
+^
+Shareing
+
+---
+
+
 ## The DevOps Cycle
 
 ---
@@ -68,15 +105,15 @@ Its all about haveing several parts of you bussniss to Cooperate in a way that i
 
 ---
 
-#**Why**
+#**Why?**
 
 ---
 
-DevOps emerged from an effort by businesses to respond more rapidly to market changes. 
+DevOps emerged from an effort by businesses
+to **respond more rapidly** to market changes.
 
 
 ^
-
 Read more at https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-devops.html#gwbsZvXIRWi9ygAc.99
 
 ---
@@ -87,9 +124,9 @@ Read more at https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-de
 [.autoscale: true]
 
 + 2008: Debois helps plant the seeds of the DevOps movement at the Agile conference in Toronto.
-+ 2009: Flikr employees holds a talk: “10+ Deploys per Day: Dev and Ops Cooperation at Flickr.” 
++ 2009: Flikr employees holds a talk: “10+ Deploys per Day: Dev and Ops Cooperation at Flickr.”
 + 2010: The first US Devopsdays is organized
-+ 2011: The DevOps community starts to build open source tools like Vagrant 
++ 2011: The DevOps community starts to build open source tools like Vagrant
 
 ---
 
@@ -104,25 +141,27 @@ Read more at https://www.ca.com/us/rewrite/articles/devops/a-short-history-of-de
 
 ---
 
-#DevOps
-
-
-
----
-
 ## Recommended Futher Read
 
-![inline](assets/the-phoenix-project.jpg) 
+![inline](assets/the-phoenix-project.jpg)
 
 ---
 
 ![](assets/devopsdays-oslo-17.jpg)
-## Want to know more ? 
+
+## Want to know more ?
+
 Attend your local DevOpsDays.
 [devopsdays.org](https://www.devopsdays.org/)
 
 ---
 
+# Questions & Discussions
+
+Time for Questions and Discussions as time allows
+
+Fork this presentation:
+![inline](assets/icon-github.png)/lonix/presentations
 
 [^1]: ca.com
 
